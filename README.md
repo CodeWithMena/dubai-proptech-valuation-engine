@@ -3,7 +3,6 @@
 # Dubai Real Estate Investment Analysis
 
 
-
 ## Project Overview
 
 
